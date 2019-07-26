@@ -24,7 +24,7 @@ configmap:
     target-cpu-utilization-percentage: 50
     target-memory-utilization-percentage: 50
 
-  validation_hook_enable: false
+  validation_hook_enable: true
   validation_hook_cert_validity: 365 #days
 
   # optional settings that can be set.
